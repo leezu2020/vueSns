@@ -1,0 +1,52 @@
+[
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "D:\\\\스터디\\\\vuesns\\\\ch1\\\\front\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile",
+    "_name": "_ec19a6f0"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "D:\\\\스터디\\\\vuesns\\\\ch1\\\\front\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup",
+    "_name": "_2fecb609"
+  },
+  {
+    "name": "hashtag-id",
+    "path": "/hashtag/:id",
+    "component": "D:\\\\스터디\\\\vuesns\\\\ch1\\\\front\\\\pages\\\\hashtag\\\\_id\\\\index.vue",
+    "chunkName": "pages/hashtag/_id/index",
+    "_name": "_0d77a683"
+  },
+  {
+    "path": "/post/:id?",
+    "component": "D:\\\\스터디\\\\vuesns\\\\ch1\\\\front\\\\pages\\\\post\\\\_id.vue",
+    "chunkName": "pages/post/_id",
+    "children": [
+      {
+        "name": "post-id",
+        "path": "",
+        "component": "D:\\\\스터디\\\\vuesns\\\\ch1\\\\front\\\\pages\\\\post\\\\_id\\\\index.vue",
+        "chunkName": "pages/post/_id/index",
+        "_name": "_2fbae429"
+      }
+    ],
+    "_name": "_da0aa38e"
+  },
+  {
+    "name": "user-id",
+    "path": "/user/:id",
+    "component": "D:\\\\스터디\\\\vuesns\\\\ch1\\\\front\\\\pages\\\\user\\\\_id\\\\index.vue",
+    "chunkName": "pages/user/_id/index",
+    "_name": "_e980fd58"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\스터디\\\\vuesns\\\\ch1\\\\front\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_9d66d61e"
+  }
+]
